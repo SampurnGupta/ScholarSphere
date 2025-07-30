@@ -27,3 +27,8 @@ streamlit run app.py
 - Sentence Transformers for similarity analysis
 - KeyBERT for keyword extraction
 - Semantic Scholar API for research paper recommendations
+
+## NOTE
+
+- In this i made  use of Hugging face and other ML models offline on my pc (Locally) : IMPROV this and access them via API.
+- Once Done DEPLOY IT: via RENDER (Backend) and VERCEL (FrontEnd)
